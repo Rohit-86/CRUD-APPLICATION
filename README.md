@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# CRUD-APPLICATION
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This Application is developed in ReactJS
 
 ## Available Scripts
 
@@ -69,6 +68,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# curd-application
->>>>>>> a57c9457158736571bc7a91b813738eeced343db
